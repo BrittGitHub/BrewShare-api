@@ -1,7 +1,7 @@
 
-ID="6256dbf1c427fc39ec9933f5"
+ID="62586b4321b765a3de7e881c"
 TOKEN="ad2f90da225c034c5b4c717b42cc0e07"
-NAME="Rainbows are Real"
+NAME="Rainbows"
 BEERSTYLE="Hazy Double IPA"
 ABV="6.9"
 BREWER="CLOWN SHOES"

@@ -33,11 +33,3 @@ curl "${API}${URL_PATH}" \
   }'
 
   echo
-
-    #   "brewerCountry": "'"${BREWERCOUNTRY}"'",
-    #   "consumptionType": "'"${CONSUMPTIONTYPE}"'",
-    #   "personalRatingNum": "'"${PRN}"'",
-    #   "ratingDescription": "'"${RATINGDESC}"'",
-    #   "purchasedLocation": "'"${PURCHASEDLOCATION}"'",
-    #   "purchasedPrice": "'"${PURCHASEDPRICE}"'",
-    #   "purchasedDate": "'"${PURCHASEDATE}"'"
