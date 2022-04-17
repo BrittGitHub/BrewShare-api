@@ -10,8 +10,8 @@ const beerSchema = new mongoose.Schema({
     required: true
   },
   abv: {
-    type: String
-    // required: true
+    type: Number,
+    min: 0
   },
   brewer: {
     type: String
