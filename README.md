@@ -11,7 +11,7 @@ Please visit the following link: https://brittgithub.github.io/BrewShare-client/
 ## Project Planning
 
 #### ERD
-To view a draft ERD of the app, [click here](https://imgur.com/QAGy1DV).
+To view a draft ERD of the app, [click here](BrewShare_ERD_v1.png).
 
 #### User Stories
 1. As a user, I would like the ability to add/create beers
